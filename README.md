@@ -14,8 +14,7 @@ This application will provide details about flights. Users can list places, view
 
 
 The Project is deployed using Replit.
-## URL:- 
-https://fruitfulmenacinglight.jayacha7.repl.co/
+
 
 
 ## Demo Video:-
