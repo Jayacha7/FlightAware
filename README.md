@@ -8,8 +8,6 @@ This application will provide details about flights. Users can list places, view
 
 >Users send a request related to flights
 
->Data is stored in a database.
-
 >Spring boot app processes the user’s request and gives an appropriate response to users.
 
 
